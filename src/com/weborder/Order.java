@@ -128,6 +128,8 @@ public class Order {
 			System.out.println("Expected:\t" + expected);
 			System.out.println("Actual:\t" + actual);
 
+			
+			System.out.println("new message for git to update");
 		}
 	}
 
